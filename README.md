@@ -14,7 +14,7 @@
 <p>&nbsp;</p>
 <ul>
 <li>
-<h3><span style="color: #00ff00;"><strong><span style="color: #00ff00;">&nbsp;P</span>aste this script into the JavaScript console of the Colab browser window (Ctrl+Shift+i)</strong></span></h3>
+<h3><span style="color: #00ff00;"><strong><span style="color: #00ff00;">&nbsp;</span>Paste this script into the JavaScript console of the Colab browser window (Ctrl+Shift+i)</strong></span></h3>
 </li>
 </ul>
 <p>&nbsp;</p>
